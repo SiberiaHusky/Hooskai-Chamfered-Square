@@ -1,4 +1,5 @@
-# Hooskai Chamfered Square
+# <image src="https://hooskai.top/images/font-preview.png" width="25%"></image>
+
 哈喽啊，我是斯凯。
 这个字体字如其名，这是我画的一个被削了角、方方的字体，没什么好介绍的。
 
