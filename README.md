@@ -12,4 +12,5 @@ There's not much else to say about it.
 
 # Question
 如果有问题请到 "Issues" 提交。
-If you have any questions, please submit them to "Issues".
+If you have any questions, please submit them on the "Issues" section.
+Если у вас есть вопросы, пожалуйста, отправьте их в разделе "Issues".
