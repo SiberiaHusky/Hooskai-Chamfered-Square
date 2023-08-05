@@ -11,7 +11,7 @@ There's not much else to say about it.
 Этот шрифт, как и говорит его название, является квадратным шрифтом с скошенными углами, который я разработал.
 Больше особенностей нет для описания. (Этот текст был переведен с помощью ChatGPT.)
 
-# Supported
+# <image src="https://hooskai.top/images/font-supported.png" width="25%"></image>
 目前已支援（Unicode）：基本拉丁字母、部分拉丁字母补充-1、部分拉丁字母补充-A、部分拉丁字母补充-B、大部分西里尔字母。
 
 Currently supported (Unicode): Basic Latin, some Latin 1 Supplement, some Latin Extended-A, some Latin Extended-B, and some Cyrillic.
@@ -19,7 +19,7 @@ Currently supported (Unicode): Basic Latin, some Latin 1 Supplement, some Latin 
 В настоящее время поддерживаются (Unicode): основные латинские буквы, некоторые буквы дополнения Латиница 1, некоторые буквы дополнения Латиница-А, некоторые буквы дополнения Латиница-Б и некоторые кириллические буквы.
 
 
-# Question
+# <image src="https://hooskai.top/images/font-question.png" width="20%"></image>
 如果有问题请到 "Issues" 提交。
 
 If you have any questions, please submit them on the "Issues" section.
