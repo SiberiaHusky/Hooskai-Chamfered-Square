@@ -3,7 +3,7 @@
 哈喽啊，我是斯凯。
 这个字体字如其名，这是我画的一个被削了角、方方的字体，没什么好介绍的。
 
-Hey there, I'm Huky.
+Hey there, I'm Husky.
 This font, as the name suggests, is a square-shaped font with chamfered edges that I designed.
 There's not much else to say about it.
 
