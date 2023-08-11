@@ -25,3 +25,9 @@ Currently supported (Unicode): Basic Latin, some Latin 1 Supplement, some Latin 
 If you have any questions, please submit them on the "Issues" section.
 
 Если у вас есть вопросы, пожалуйста, отправьте их в разделе "Issues".
+
+
+# Support me
+<a href="https://www.buymeacoffee.com/hooskai" target="_black">Buy me a coffee</a>
+
+<a href="https://afdian.net/a/hooskai" target="_blank">爱发电 Afdian</a>
