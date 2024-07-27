@@ -28,6 +28,6 @@ If you have any questions, please submit them on the "Issues" section.
 
 
 # Support me
-<a href="https://kofi.com/hooskai" target="_black">Ko-Fi</a>
+<a href="https://ko-fi.com/hooskai" target="_black">Ko-Fi</a>
 
 <a href="https://afdian.net/a/hooskai" target="_blank">爱发电 Afdian</a>
