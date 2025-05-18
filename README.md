@@ -33,4 +33,6 @@ If you have any questions, please submit them on the "Issues" section.
 <a href="https://afdian.com/a/hooskai" target="_blank">爱发电 Afdian</a>
 
 # Users of HCS
+If you use HCS, please let me know and I will be very happy❤️.
+
 <a href="https://furdevs.cn/" target="_blank">FurDevsCN</a>
