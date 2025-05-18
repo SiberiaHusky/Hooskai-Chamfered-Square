@@ -31,3 +31,6 @@ If you have any questions, please submit them on the "Issues" section.
 <a href="https://ko-fi.com/hooskai" target="_black">Ko-Fi</a>
 
 <a href="https://afdian.com/a/hooskai" target="_blank">爱发电 Afdian</a>
+
+# Users of HCS
+<a href="https://furdevs.cn/" target="_blank">FurDevsCN</a>
