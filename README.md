@@ -36,3 +36,5 @@ If you have any questions, please submit them on the "Issues" section.
 If you use HCS, please let me know and I will be very happy❤️.
 
 <a href="https://furdevs.cn/" target="_blank">FurDevsCN</a>
+
+<a href="https://algebuckina-design.au/" target="_blank">Algebuckina Design</a>
